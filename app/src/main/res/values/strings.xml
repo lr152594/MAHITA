@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MAHITA</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="button">SHARE LOCATION</string>
+</resources>
